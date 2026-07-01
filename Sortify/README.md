@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Output Screenshots
 
 ## Task 1 - Remove Duplicate Elements
@@ -18,3 +19,8 @@
 
 ## Task 5 - Magic Sorter
 <img width="1837" height="502" alt="image" src="https://github.com/user-attachments/assets/3cc0ca03-8bff-4be4-91d0-459649288180" />
+=======
+## 🎥 Project Explanation Video
+
+[▶ Watch Explanation Video](Assets/Explanation%20Video.mp4)
+>>>>>>> 596aef2 (Update Code And Add Explanation Video)
