@@ -24,6 +24,6 @@
 
 ## 🎥 Project Explanation Video
 
-[▶ Watch Explanation Video](https://drive.google.com/file/d/1AULYl2kmV-9fiSz9S-0p4jb_ToREtNYi/view?usp=sharing)
+[▶ Watch Explanation Video](https://drive.google.com/file/d/1SDwyHvZJP4NhUcbMVfkHtJQI6PtrvLBG/view?usp=sharing)
 
 > > > > > > > 596aef2 (Update Code And Add Explanation Video)
