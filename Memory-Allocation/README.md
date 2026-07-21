@@ -19,10 +19,11 @@ This project is a simple implementation of a Singly Linked List using Dynamic Me
 - Linked List
 - Pointers
 
-## How to Run
-1. Compile the `main.cpp` file.
-2. Run the program.
-3. Select the required operation from the menu.
-
 ## Conclusion
 This project helps in understanding the basics of dynamic memory allocation, linked lists, pointers, and CRUD operations in C++.
+
+## 🎥 Project Explanation Video
+
+[▶ Watch Explanation Video](## 🎥 Project Explanation Video
+
+[▶ Watch Explanation Video](https://drive.google.com/file/d/1-UYSbiF1YK-JpoCFB5Cyy44Kb6mbjHva/view?usp=sharing)
